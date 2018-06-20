@@ -1,5 +1,5 @@
 <!-- TITLE: Home -->
-<!-- SUBTITLE: iOS APP -->
+<!-- SUBTITLE: iOS APP from start to end. -->
 
 # iOS APP
 ## Intorduction
