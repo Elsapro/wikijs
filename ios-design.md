@@ -4,7 +4,6 @@
 # Designing for iPhone X
 Learn how to optimize the design of your app or game
 for the new all-screen Super Retina display.
-![Sopicon](/uploads/graphics/sopicon.png "Sopicon")
 # Human Interface Guidelines
 Get in-depth information and UI resources for designing great apps that integrate seamlessly with Apple platforms.
 
@@ -13,5 +12,3 @@ Discover the winning apps of 2018, reflecting the best in design, innovation, an
 
 # Watch Sessions and Tutorials
 Learn how to craft intuitive, forward-thinking apps, great in-app purchase experiences, strong onboarding designs, and much more.
-
-![Anncmt Genericicon](/uploads/graphics/anncmt-genericicon.png "Anncmt Genericicon")
