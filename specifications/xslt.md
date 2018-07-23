@@ -19,9 +19,10 @@ XSLT 3.0 is a Recommendation
 
 and of course lots of goodies like trigonometric functions, dynamic XPath evaluation, a string concatenation operator, text value templates, a random number generator, and a function chaining operator.
 
-As a bonus, we thought you'd like an open-source implementation.
 
-So Saxon 9.8 is released today, and the open source Saxon-HE version now includes core support for XSLT 3.0 with XPath 3.1.
+
+### Application Support
+Saxon 9.8 is released today, and the open source Saxon-HE version now includes core support for XSLT 3.0 with XPath 3.1.
 
 There are lots of other new things in Saxon 9.8:
 
