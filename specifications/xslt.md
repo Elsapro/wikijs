@@ -22,7 +22,8 @@ and of course lots of goodies like trigonometric functions, dynamic XPath evalua
 
 
 ### Application Support
-Saxon 9.8 is released today, and the open source Saxon-HE version now includes core support for XSLT 3.0 with XPath 3.1.
+#### Saxon 9.8 and open Source Saxon-HE
+Includes core support for XSLT 3.0 with XPath 3.1.
 
 There are lots of other new things in Saxon 9.8:
 
