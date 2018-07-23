@@ -25,6 +25,6 @@ This WIKI include resource on how to design, develop and deploy an iOS app.
 # Applications
 ## Agile
 ## WIKI
-* [WIKI.js](wikijs)
+* [WIKI.js](wiki.js)
 ## Editors
 ## Content Management
