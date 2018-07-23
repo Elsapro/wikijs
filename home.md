@@ -8,16 +8,16 @@ iOS APP from start to end
 
 This WIKI include resource on how to design, develop and deploy an iOS app. 
 
-* [Design](ios-design)
-* [Development](ios-development)
-* [Distribute](ios-distribute)
+* [Design](ios/ios-design)
+* [Development](ios/ios-development)
+* [Distribute](ios/ios-distribute)
 
 
 # Technologies
-* [Selenium](selenium)
-* [Spring](spring)
-* [Apache Struts](struts)
-* [Hibernate](hibernate)
+* [Selenium](technologies/selenium)
+* [Spring](technologies/spring)
+* [Apache Struts](technologies/struts)
+* [Hibernate](technologies/hibernate)
 
 # Specifications
 ## markdown
