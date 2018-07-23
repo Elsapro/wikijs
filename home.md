@@ -1,7 +1,8 @@
-<!-- TITLE: Home -->
-<!-- SUBTITLE: iOS APP from start to end. -->
+<!-- TITLE: sgmlxml.net -->
+<!-- SUBTITLE: SGML XML Developer Network -->
 
 # iOS APP
+iOS APP from start to end
 ## Intorduction
 
 This WIKI include resource on how to design, develop and deploy an iOS app. 
