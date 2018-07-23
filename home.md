@@ -1,4 +1,4 @@
-<!-- TITLE: sgmlxml.net -->
+<!-- TITLE: SGMLXML.net -->
 <!-- SUBTITLE: SGML XML Developer Network -->
 
 # iOS APP
