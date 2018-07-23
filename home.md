@@ -21,7 +21,8 @@ This WIKI include resource on how to design, develop and deploy an iOS app.
 
 # Specifications
 ## markdown
-## XML
+## W3C
+* [XSLT](specifications/xslt)
 # Applications
 ## Agile
 ## WIKI
