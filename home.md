@@ -3,7 +3,7 @@
 
 # iOS APP
 iOS APP from start to end
-## Intorduction
+## Introduction
 
 This WIKI include resource on how to design, develop and deploy an iOS app. 
 
