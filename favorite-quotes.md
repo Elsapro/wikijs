@@ -12,4 +12,4 @@
 
 ## Practical
 * “Years ago I first saw a poster of Murphy's law: If anything can go wrong, it will. That's ridiculous. So I wrote a set of alternatives. I called them Peter's laws: If anything can go wrong, fix it. “No” means begin again one level higher. Do it by the book, but be the author.” - Peter Diamandis
-* :: “When one door closes, another opens; but we often look so long and so regretfully upon the closed door that we do not see the one that has opened for us.” -Alexander Graham Bell
+* “When one door closes, another opens; but we often look so long and so regretfully upon the closed door that we do not see the one that has opened for us.” -Alexander Graham Bell
