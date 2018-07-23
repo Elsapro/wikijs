@@ -1,7 +1,7 @@
 <!-- TITLE: SGMLXML.net -->
 <!-- SUBTITLE: SGML XML Developer Network -->
 # Favorite Quotes
-* [Quotes](favoritequotes)
+* [Quotes](favorite quotes)
 # iOS APP
 iOS APP from start to end
 ## Introduction
