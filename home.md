@@ -12,4 +12,4 @@ This WIKI include resource on how to design, develop and deploy an iOS app.
 
 
 # Technologies
-*[Selenium](selenium)
+* [Selenium](selenium)
