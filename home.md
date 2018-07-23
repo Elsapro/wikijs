@@ -17,4 +17,12 @@ This WIKI include resource on how to design, develop and deploy an iOS app.
 * [Spring](spring)
 * [Apache Struts](struts)
 * [Hibernate](hibernate)
-* 
+
+# Specifications
+## markdown
+## XML
+# Applications
+## Agile
+## WIKI
+## Editors
+## Content Management
