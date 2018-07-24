@@ -60,7 +60,7 @@
 
 * “One never notices what has been done; one can only see what remains to be done.” -Marie Curie
 
-*“The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.” -George Bernard Shaw
+* “The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.” -George Bernard Shaw
 
 ## Military
 
@@ -88,6 +88,8 @@
 
 * “That’s not right… that’s not even wrong!” -Wolfgang Pauli
 
-## Other Sites http://www.quotegarden.com/programming.html
+## Other Sites
+
+http://www.quotegarden.com/programming.html
 
 http://www.sysprog.net/programming-quotes/
