@@ -4,9 +4,9 @@
 # Quotes
 ## Software
 
-* Gall’s Law: “A complex system that works is invariably found to have evolved from a simple system that worked. The inverse proposition also appears to be true: A complex system designed from scratch never works and cannot be made to work. You have to start over, beginning with a working simple system.”
+* **Gall’s Law**: “A complex system that works is invariably found to have evolved from a simple system that worked. The inverse proposition also appears to be true: A complex system designed from scratch never works and cannot be made to work. You have to start over, beginning with a working simple system.”
 * The Information Super Highway is still a dirt road in some places”
-* Brooks's Law: Adding manpower to a late software project makes it later.
+* **Brooks's Law**: Adding manpower to a late software project makes it later.
 * Computer Science is the first engineering discipline in which the complexity of the objects created is limited solely by the skill of the creator, and not by the strength of raw materials. B. Reid
 * The wedsite shoudl never be ahead of the airplane
 
