@@ -2,5 +2,5 @@
 <!-- SUBTITLE: Employment Topics -->
 
 # Topics
-* [LinkedIn](LinkedIn)
-* [InterviewQuestions](InterviewQuestions)
+* [LinkedIn](Employment/LinkedIn)
+* [InterviewQuestions](Employment/InterviewQuestions)
