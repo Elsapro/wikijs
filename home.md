@@ -2,16 +2,6 @@
 <!-- SUBTITLE: SGML XML Developer Network -->
 # General
 * [Quotes](favorite-quotes)
-# iOS APP
-iOS APP from start to end
-## Introduction
-
-This WIKI include resource on how to design, develop and deploy an iOS app. 
-
-* [Design](ios/ios-design)
-* [Development](ios/ios-development)
-* [Distribute](ios/ios-distribute)
-
 
 # Technologies
 * [Selenium](technologies/selenium)
