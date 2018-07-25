@@ -43,6 +43,8 @@ Make your goal to have an "All Star" profile:
 - Public profile & URL
 - Contact Info
 
+Character Limits in LinkedIN: https://connect2collaborate.wordpress.com/2014/09/02/character-limits-on-linkedin/
+
 ### Name & Headline
 * Companies are searching using keywords. Typically items higher in your profile are ranked higher in the linkedIn search algorithms.
 * You have 40 characters in your last name field to work with if you have an advanced degree or certification.
