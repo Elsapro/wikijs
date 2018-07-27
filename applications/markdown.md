@@ -6,4 +6,3 @@
 ### Features
 - Support for a Vi Mode
 - Support for Commonmark
-- 
