@@ -19,5 +19,6 @@
 * [WIKI.js](applications/wikijs)
 ## Editors
 ## Content Management
+* [PTC Windchill](applications/windchill)
 ## Publishing
 * [Arbortext Publishing Engine](applications/PE)
