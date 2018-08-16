@@ -47,13 +47,13 @@ Resumes need to be scannable by the HUMAN eye. It should have:
 ## Commas
 Punctuation is important and commas are a common area of concern.
 
-Recommendations
+### Recommendations
 * Most US-based style guides recommend the use of the serial (aka the Oxford) comma to seperate 3 or more words, phrases or clauses written in a series.
 	**EXAMPLE:** Her favorite breakfast consisted of pankcakes, bacon, juice, and eggs.
 	
 * According to the The Assocated Press Stylebook (2013) leave teh serial comma out, iunless deemed absolutly necessary.
 	**EXAMPLE:** Her favorite breakfast consisted of pancakes, backon, juice and eggs. 
 	
-	Be consistent either way. Always use it or never use it.
+**	Be consistent either way. Always use it or never use it.**
 	
 	
