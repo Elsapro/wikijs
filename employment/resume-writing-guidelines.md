@@ -32,9 +32,11 @@ Resumes need to be scannable by the HUMAN eye. It should have:
 * Headers and your name should be a larger sized font.
 
 ### Good Fonts to try:
+
 **Serif Fonts**
 	* Georgia
 	* Times New Roman
+	
 	
 **Sans Serif Fonts **
 	* Calibri
