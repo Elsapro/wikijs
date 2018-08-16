@@ -57,3 +57,13 @@ Punctuation is important and commas are a common area of concern.
 **Be consistent either way. Always use it or never use it.**
 	
 	
+## Hypenation
+This is often cited as one of the most frequent mistakes in writing today. If you are using a 2-word adjective, it's always hyphenated and needs to be consistently presentd throughtout the document. An example would be the term entry-level.
+	
+	### References
+	* www.grammarbook.com
+	* http://www.merriam-webster.com/
+
+
+	
+	
