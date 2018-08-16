@@ -30,3 +30,14 @@ Resumes need to be scannable by the HUMAN eye. It should have:
 * 10.5 font size is the smallest recommended font size.
 * The body of the resume shoudl ne no more than 12-point font and no msaller than 10.5 font.
 * Headers and your name should be a larger sized font.
+
+### Good Fonts to try:
+**Serif Fonts**
+	* Georgia
+	* Times New Roman
+**Sans Serif Fonts **
+	* Calibri
+	* Verdana
+	* Tahoma
+
+
