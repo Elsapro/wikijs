@@ -24,4 +24,4 @@ Resumes need to be scannable by the HUMAN eye. It should have:
 * **Numbers** - use "10" instead of "ten" as reaers eyes will pick up  numbers before words. When highlighitng accomplisments, use quantifiable reuslts / statistics whenever possible. It helps the reader see them quickly.
 *  **Abbreviations** instead of zeros. One million dollars should be written $1M. For one thousand use $1K.
 *  **Symbols** are acceptable when they represent percentages (%) and dollars ($).
-*  **Keywords** that ar emarket appropriate.
+*  **Keywords** that are market appropriate.
