@@ -35,6 +35,7 @@ Resumes need to be scannable by the HUMAN eye. It should have:
 **Serif Fonts**
 	* Georgia
 	* Times New Roman
+	
 **Sans Serif Fonts **
 	* Calibri
 	* Verdana
