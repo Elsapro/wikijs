@@ -75,6 +75,9 @@ Hiring managers also reported only about 5% of resumes contained this key sectio
 
 ## Elements for an Effective Summary
 1. **Your Personal Brand** - Includes the title or position description that describes who you are and your impact, your Unique Selling Point, and / or the benefits you’re offering.
+
+	**EXAMPLE:** High-impact Software Application Architect who leverages IT & Automated Solutions to improve processes and drive cost savings.
+	
 2. **Hard Skills** - Experience you have in related positions and / or industries and other special technical skills.
 
 	**EXAMPLE:**  Sales strategist with the vision to determine optimal product / services solutions, acquire and develop new business, and successfully penetrate new markets.
