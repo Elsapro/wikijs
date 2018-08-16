@@ -61,9 +61,10 @@ Punctuation is important and commas are a common area of concern.
 This is often cited as one of the most frequent mistakes in writing today. If you are using a 2-word adjective, it's always hyphenated and needs to be consistently presentd throughtout the document. An example would be the term entry-level.
 	
 ### References
-	
-	* www.grammarbook.com
-	* http://www.merriam-webster.com/
+
+* www.grammarbook.com
+
+* http://www.merriam-webster.com/
 
 
 	
