@@ -122,6 +122,6 @@ Look here for accomplisments:
 
 ## Condensing Language
 ### Original
-*~~ Successfully~~ developed and implemented a new improvement plan for all supply chain teams ~~in the organization. Responsible~~ for providing team member training and standardizing the procedures for ~~all of~~ the deployments. ~~This~~ plan reduced deployment and service times by approximately 25%.
+* ~~ Successfully~~ developed and implemented a new improvement plan for all supply chain teams ~~in the organization. Responsible~~ for providing team member training and standardizing the procedures for ~~all of~~ the deployments. ~~This~~ plan reduced deployment and service times by approximately 25%.
 ### Better:
 * Decreased deployment and service times 25% by developing and implementing supply chain improvement plan, training teams and standardizing deployment procedures.
