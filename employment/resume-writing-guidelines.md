@@ -8,3 +8,20 @@
 
 ## Voice & Tense
 You are the writer of the resume. That means the resume is written in 1st person, never in 3rd person.
+
+**Example:**
+* Correct: Imporved accuracy of cash reporting by 50%
+* Incorrect: ~~Improves accurarcy of cash reporting by 50%~~
+
+## Length
+Resumes shiould ideally be no longer than 2-pages in length. 1 Page resumes are appropriate for 5 to 7 years expereince. 
+
+Resumes need to be scannable by the HUMAN eye. It should have:
+
+* **Short paragraphs** (no more than 3 to 5 sentences) if you are using a summary format.
+* Use **full thoughts** versus full sentences. Be concise and active.
+* **No propnouns**. Elminate works like: I, me, my, mine, out, their, etc. 
+* **Numbers** - use "10" instead of "ten" as reaers eyes will pick up  numbers before words. When highlighitng accomplisments, use quantifiable reuslts / statistics whenever possible. It helps the reader see them quickly.
+*  **Abbreviations** instead of zeros. One million dollars should be written $1M. For one thousand use $1K.
+*  **Symbols** are acceptable when they represent percentages (%) and dollars ($).
+*  **Keywords** that ar emarket appropriate.
