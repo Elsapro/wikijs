@@ -79,7 +79,7 @@ Hiring managers also reported only about 5% of resumes contained this key sectio
 
 	**EXAMPLE:**  Sales strategist with the vision to determine optimal product / services solutions, acquire and develop new business, and successfully penetrate new markets.
 
-3. ** Soft Skills** - Personal strengths (motivated abilities).
+3. **Soft Skills** - Personal strengths (motivated abilities).
 
 	**EXAMPLE:**  Sales strategist with the vision to determine optimal product / services solutions, acquire and develop new business, and successfully penetrate new markets.
 
