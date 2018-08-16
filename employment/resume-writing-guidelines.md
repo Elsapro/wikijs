@@ -131,10 +131,10 @@ When sending out any document related to your job search, it is critical it be e
 
 * Read the copy out loud.
 * Read the copy backwards to focus on the spelling of words.
-		* Covering the words above and below your line helps you to keep your eye just on the line you are proofreading.
-		* When reading one line at a time, and doing it backwards, you don't have the context and meaning to let you know if your eye skips a line.
+	* Covering the words above and below your line helps you to keep your eye just on the line you are proofreading.
+	* When reading one line at a time, and doing it backwards, you don't have the context and meaning to let you know if your eye skips a line.
 * Use spell check and grammar check as a first screening, but don't rely on them.
-		* There are too many possibilities for error with spell check. (Examples: lead and led, there and their, to
+	* There are too many possibilities for error with spell check. (Examples: lead and led, there and their, to
 and two, our and hour - words that are correctly spelled but may not be the form you intended.)
 * Don't proof for every type of mistake at once -- do one proofreading for spelling, another for consistency of word usage, verb tenses, punctuation, etc.
 * Double check little words: "or," "of," "it," and "is" are often interchanged.
