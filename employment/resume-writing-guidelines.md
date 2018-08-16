@@ -87,3 +87,6 @@ Hiring managers also reported only about 5% of resumes contained this key sectio
 
 	**EXAMPLE:**  Sales strategist with the vision to determine optimal product / services solutions, acquire and develop new business, and successfully penetrate new markets.
 
+
+# Accomplishment Statements
+> Accomplishment: - An action taken which results in a measurable and beneficial outcome.
