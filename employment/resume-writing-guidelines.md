@@ -125,3 +125,17 @@ Look here for accomplisments:
 * ~~Successfully~~ developed and implemented a new improvement plan for all supply chain teams ~~in the organization. Responsible~~ for providing team member training and standardizing the procedures for ~~all of~~ the deployments. ~~This~~ plan reduced deployment and service times by approximately 25%.
 ### Better:
 * Decreased deployment and service times 25% by developing and implementing supply chain improvement plan, training teams and standardizing deployment procedures.
+
+# Proofreading Tips
+When sending out any document related to your job search, it is critical it be error free.
+
+* Readthecopyoutloud.
+* Read the copy backwards to focus on the spelling of words.
+- Covering the words above and below your line helps you to keep your eye just on the line you are proofreading.
+- When reading one line at a time, and doing it backwards, you don't have the context and meaning to let you know if your eye skips a line.
+* Use spell check and grammar check as a first screening, but don't rely on them.
+- There are too many possibilities for error with spell check. (Examples: lead and led, there and their, to
+and two, our and hour - words that are correctly spelled but may not be the form you intended.)
+* Don't proof for every type of mistake at once -- do one proofreading for spelling, another for consistency of word usage, verb tenses, punctuation, etc.
+* Double check little words: "or," "of," "it," and "is" are often interchanged.
+* Take a break and come back to it fresh. How often do you find a typo after the fact even when you have proofread the document several times? The wrong spelling can look right until you leave it and come back with fresh eyes.
