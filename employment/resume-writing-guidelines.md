@@ -75,13 +75,11 @@ Hiring managers also reported only about 5% of resumes contained this key sectio
 
 
 -----
-
-
-
-SOFTWARE DEVELOPMENT & DELIVERY LEADER
+												SOFTWARE DEVELOPMENT & DELIVERY LEADER
+												
 Boost Revenue & Control Costs with Efficient Global Development & Deployment Teams
-Global experience building and integrating high-performing distributed software and services teams through high growth phase acquisitions. Extensive experience in product development, release, cloud integration, support and managing client relationships. Highly skilled at creating opportunities to improve processes and reduce costs utilizing requirements modeling as well as Agile Scrum methodology. Forge strong mutually beneficial partnerships with professional service and software vendors. 
 
+Global experience building and integrating high-performing distributed software and services teams through high growth phase acquisitions. Extensive experience in product development, release, cloud integration, support and managing client relationships. Highly skilled at creating opportunities to improve processes and reduce costs utilizing requirements modeling as well as Agile Scrum methodology. Forge strong mutually beneficial partnerships with professional service and software vendors. 
 -----
 
 
