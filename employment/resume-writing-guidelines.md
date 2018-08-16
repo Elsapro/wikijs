@@ -67,7 +67,8 @@ This is often cited as one of the most frequent mistakes in writing today. If yo
 * http://www.merriam-webster.com/
 
 
-	# Developing a Summary Profile
+
+# Developing a Summary Profile
 Your personal branding statement is often called your "Summary of Qualifications or Profile" section. Adding a branding statement triples your impact, and employers reported that this was one of the very first areas they read. And if the briefly stated summary demonstrates solid ability to fill the advertised job, it catches their attention and they slow down and give the applicant more careful consideration.
 
 Hiring managers also reported only about 5% of resumes contained this key section. Think of it as mini-outline of you: a highly influential summation of the specifics you bring to the job. This section usually consists of four to six sentences that present an overview of your brand identity (i.e. impact, where you add value, your point of differentiation), talents, work habits (i.e. hard and soft skills).
