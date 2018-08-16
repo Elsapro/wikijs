@@ -3,8 +3,8 @@
 
 # Resume Writing Strategies & Guidelines
 ## Overview
-* You reume isn't your "job history" but the part of your job hisotry that is selling you into the role you're targeting.
-* Resume reviewers spend less than 10-seconds reciewing a document. A trong personal branding statement helps you quickly get to your messaging.
+* Your resume isn't your "job history" but the part of your job hisotry that is selling you into the role you're targeting.
+* Resume reviewers spend less than 10-seconds reviewing a document. A strong personal branding statement helps you quickly get to your messaging.
 
 ## Voice & Tense
 You are the writer of the resume. That means the resume is written in 1st person, never in 3rd person.
@@ -14,14 +14,14 @@ You are the writer of the resume. That means the resume is written in 1st person
 * Incorrect: ~~Improves accurarcy of cash reporting by 50%~~
 
 ## Length
-Resumes shiould ideally be no longer than 2-pages in length. 1 Page resumes are appropriate for 5 to 7 years expereince. 
+Resumes should ideally be no longer than 2-pages in length. 1 Page resumes are appropriate for 5 to 7 years expereince. 
 
 Resumes need to be scannable by the HUMAN eye. It should have:
 
 * **Short paragraphs** (no more than 3 to 5 sentences) if you are using a summary format.
 * Use **full thoughts** versus full sentences. Be concise and active.
 * **No propnouns**. Elminate works like: I, me, my, mine, out, their, etc. 
-* **Numbers** - use "10" instead of "ten" as reaers eyes will pick up  numbers before words. When highlighitng accomplisments, use quantifiable reuslts / statistics whenever possible. It helps the reader see them quickly.
+* **Numbers** - use "10" instead of "ten" as readers eyes will pick up  numbers before words. When highlighitng accomplisments, use quantifiable results / statistics whenever possible. It helps the reader see them quickly.
 *  **Abbreviations** instead of zeros. One million dollars should be written $1M. For one thousand use $1K.
 *  **Symbols** are acceptable when they represent percentages (%) and dollars ($).
 *  **Keywords** that are market appropriate.
