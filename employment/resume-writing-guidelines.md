@@ -126,6 +126,16 @@ Look here for accomplisments:
 ### Better:
 * Decreased deployment and service times 25% by developing and implementing supply chain improvement plan, training teams and standardizing deployment procedures.
 
+# Ageless Resume
+If you are concerned that you are being screened out because of your age or high level of experience, a good solution is creating an ageless resume. Prospective employers are hiring solutions to problems. You have to demonstrate why you are the solution to the problem.
+
+### Recommendations
+1. **Remove mention of tenure in your summary statement**. Example: Instead of saying that you are a project manager with 20 years of experience, write that you are skilled at managing projects for Fortune 500 companies that are delivered on time and under budget. Highlight your **talent** and not your years of experience.
+1. **Exclude stating your total number of years of work experience**. As a job candidate, your competitive advantage lies in what you accomplished while working in a function, and not the number of years you worked in that role. What kinds of problems did you solve in the role? How did you cut costs or increase revenue? What systems did you implement that saved time? 
+a. **Limit your resume to the most recent 15 years of work experience**. Focus on the most recent 15 years of work experience, which is a good predictor of how you will perform in the future. Your expertise makes you a good hire, so talk about new technologies and current best practices that you have implemented. Consolidate your experience that is beyond 15 years under a heading such as Additional Related Experience and do not include any dates.
+b. **Remove graduation dates unless they are recent**. Graduation dates allow hiring managers to roughly calculate your age, so remove any date that will allow them to pinpoint your age. We are living in an age of constant change, and the information you learned while working on your degree 15 years ago is now outdated. However, if you recently completed a degree, go ahead and include it on your resume.
+1. **Include professional development details**. If you have updated your skills regularly and/or have completed certification in your industry or functional area, include them to demonstrate that you are a lifelong learner. You can add a section on your resume such as Recent Professional Accomplishments.
+1. **Include recent business results**. If you have achieved noteworthy business results, include them on your resume.
 # Proofreading Tips
 When sending out any document related to your job search, it is critical it be error free.
 
