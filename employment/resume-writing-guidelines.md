@@ -98,3 +98,24 @@ Look here for accomplisments:
 1. Things of which you’re very proud (awards / accolades)
 1. Past Calendars that document your work efforts
 1. Past colleagues input on things you contributed (i.e. where they said you added value)
+
+## Accomplishment Development Questions
+
+1. Did you identify or solve a major problem for your department or division? (Results?)
+1. Did you save the company money? (How much?)
+1. Did you identify, create or implement a new procedure or system? (Results?)
+1. Did you train or develop anyone?
+1. Did you develop or do something for the first time at your company? (Results?)
+1. Did you accomplish something with fewer resources or in a shorter time?
+1. Did you receive any special recognition or awards? (Why?)
+1. Did you participate in any recent company sponsored training and apply what you learned?
+1. Did you lead or contribute to any special projects? (Results?)
+1. Did you suggest or “roll out” any new products or programs?
+1. Did you reduce costs, increase revenue / profits or impact bottom-line? (By how much?)
+1. Did you increase market share or revenue? (How?)
+1. Did you develop new business or enlarge a market? (How?)
+1. Did you establish a reputation for handling difficult problems, situations or people?
+1. Did you meet / exceed company objectives? (In what way?)
+1. Did you successfully handle unusual / difficult situations or circumstances?
+1. Did you improve employee performance or productivity? (How?)
+1. Did you reduce errors? (By how much?)
