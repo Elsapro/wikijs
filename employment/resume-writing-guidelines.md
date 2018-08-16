@@ -54,6 +54,6 @@ Punctuation is important and commas are a common area of concern.
 * According to the The Assocated Press Stylebook (2013) leave teh serial comma out, iunless deemed absolutly necessary.
 	**EXAMPLE:** Her favorite breakfast consisted of pancakes, backon, juice and eggs. 
 	
-**	Be consistent either way. Always use it or never use it.**
+**Be consistent either way. Always use it or never use it.**
 	
 	
