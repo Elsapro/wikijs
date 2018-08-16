@@ -129,7 +129,7 @@ Look here for accomplisments:
 # Proofreading Tips
 When sending out any document related to your job search, it is critical it be error free.
 
-* Readthecopyoutloud.
+* Read the copy out loud.
 * Read the copy backwards to focus on the spelling of words.
 - Covering the words above and below your line helps you to keep your eye just on the line you are proofreading.
 - When reading one line at a time, and doing it backwards, you don't have the context and meaning to let you know if your eye skips a line.
