@@ -90,3 +90,11 @@ Hiring managers also reported only about 5% of resumes contained this key sectio
 
 # Accomplishment Statements
 > Accomplishment: - An action taken which results in a measurable and beneficial outcome.
+
+## Memory Joggers
+Look here for accomplisments:
+1. Saved performance reviews
+2. Old resumes
+3. Things of which you’re very proud (awards / accolades)
+4. Past Calendars that document your work efforts
+5. Past colleagues input on things you contributed (i.e. where they said you added value)
