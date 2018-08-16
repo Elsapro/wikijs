@@ -25,3 +25,8 @@ Resumes need to be scannable by the HUMAN eye. It should have:
 *  **Abbreviations** instead of zeros. One million dollars should be written $1M. For one thousand use $1K.
 *  **Symbols** are acceptable when they represent percentages (%) and dollars ($).
 *  **Keywords** that are market appropriate.
+
+## Font & Font Sizes
+* 10.5 font size is the smallest recommended font size.
+* The body of the resume shoudl ne no more than 12-point font and no msaller than 10.5 font.
+* Headers and your name should be a larger sized font.
