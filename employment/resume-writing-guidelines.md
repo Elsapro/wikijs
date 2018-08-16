@@ -119,3 +119,9 @@ Look here for accomplisments:
 1. Did you successfully handle unusual / difficult situations or circumstances?
 1. Did you improve employee performance or productivity? (How?)
 1. Did you reduce errors? (By how much?)
+
+## Condensing Language
+### Original
+*~~ Successfully~~ developed and implemented a new improvement plan for all supply chain teams ~~in the organization. Responsible~~ for providing team member training and standardizing the procedures for ~~all of~~ the deployments. ~~This~~ plan reduced deployment and service times by approximately 25%.
+### Better:
+* Decreased deployment and service times 25% by developing and implementing supply chain improvement plan, training teams and standardizing deployment procedures.
