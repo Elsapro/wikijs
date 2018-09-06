@@ -96,7 +96,7 @@
 * When your boss puts extreme pressure on you how do you generally respond?
 * How has your management style changed over your career?
 * How do you distinguish management skills from leadership skills?
-* How have you handled subordinates poor decisions?
+* How have you handled a subordinates poor decisions?
 * Have you ever issued edicts? For what reasons? What resulted?
 
 ## Values
