@@ -3,7 +3,7 @@
 
 # Resume Writing Strategies & Guidelines
 ## Overview
-* Your resume isn't your "job history" but the part of your job hisotry that is selling you into the role you're targeting.
+* Your resume isn't your "job history" but the part of your job history that is selling you into the role you're targeting.
 * Resume reviewers spend less than 10-seconds reviewing a document. A strong personal branding statement helps you quickly get to your messaging.
 
 ## Voice & Tense
@@ -19,7 +19,7 @@ Resumes should ideally be no longer than 2-pages in length. 1 Page resumes are a
 Resumes need to be scannable by the HUMAN eye. It should have:
 
 * **Short paragraphs** (no more than 3 to 5 sentences) if you are using a summary format.
-* Use **full thoughts** versus full sentences. Be concise and active.
+* Use **full thoughts** versus full sentences. Be concise and active. **example**
 * **No propnouns**. Elminate works like: I, me, my, mine, out, their, etc. 
 * **Numbers** - use "10" instead of "ten" as readers eyes will pick up  numbers before words. When highlighitng accomplisments, use quantifiable results / statistics whenever possible. It helps the reader see them quickly.
 *  **Abbreviations** instead of zeros. One million dollars should be written $1M. For one thousand use $1K.
@@ -28,14 +28,13 @@ Resumes need to be scannable by the HUMAN eye. It should have:
 
 ## Font & Font Sizes
 * 10.5 font size is the smallest recommended font size.
-* The body of the resume shoudl ne no more than 12-point font and no msaller than 10.5 font.
+* The body of the resume should be no more than 12-point font and no smaller than 10.5 font.
 * Headers and your name should be a larger sized font.
 
 ### Good Fonts to try:
 
 **Serif Fonts**
 	* Georgia
-	* Times New Roman
 	
 	
 **Sans Serif Fonts**
@@ -49,10 +48,10 @@ Punctuation is important and commas are a common area of concern.
 
 ### Recommendations
 * Most US-based style guides recommend the use of the serial (aka the Oxford) comma to seperate 3 or more words, phrases or clauses written in a series.
-	**EXAMPLE:** Her favorite breakfast consisted of pankcakes, bacon, juice, and eggs.
+	**EXAMPLE:** Her favorite breakfast consisted of pancakes, bacon, juice, and eggs.
 	
-* According to the The Assocated Press Stylebook (2013) leave teh serial comma out, iunless deemed absolutly necessary.
-	**EXAMPLE:** Her favorite breakfast consisted of pancakes, backon, juice and eggs. 
+* According to the The Assocated Press Stylebook (2013) leave the serial comma out, unless deemed absolutely necessary.
+	**EXAMPLE:** Her favorite breakfast consisted of pancakes, bacon, juice and eggs. 
 	
 **Be consistent either way. Always use it or never use it.**
 	
