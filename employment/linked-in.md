@@ -5,14 +5,14 @@
 
 ## Introduction
 - LinkedIn is indispensable for overall career management and job searching. 
-- LinkedIn is NOT facebook.
-- Worlds largest networking site. (Think of it as a virtual Rolodex.)
+- LinkedIn is NOT Facebook.
+- World's largest networking site. (Think of it as a virtual Rolodex.)
 - Built on the idea of "Six degrees of separation" which is the idea that we all are Six or fewer steps away from each other so that a "friend of a friend" can be made to connect any two people in a maximum of Six steps.
 - 90% of companies are using LinkedIn data in the hiring process.
 
 ##  Building Your Profile & Network
 - Start with your resume and build your profile with consistent branding to ensure you will be found by employers looking for professionals with your skill set.
-- Your linkedIn profile is NOT your resume. 
+- Your LinkedIn profile is NOT your resume. 
 - Enhance the quality of contacts and increase the speed of finding the right contacts.
 
 ## Get Noticed on LinkedIn
@@ -43,10 +43,10 @@ Make your goal to have an "All Star" profile:
 - Public profile & URL
 - Contact Info
 
-Character Limits in LinkedIN: https://connect2collaborate.wordpress.com/2014/09/02/character-limits-on-linkedin/
+Character Limits in LinkedIn: https://connect2collaborate.wordpress.com/2014/09/02/character-limits-on-linkedin/
 
 ### Name & Headline
-* Companies are searching using keywords. Typically items higher in your profile are ranked higher in the linkedIn search algorithms.
+* Companies are searching using keywords. Typically items higher in your profile are ranked higher in the LinkedIn search algorithms.
 * You have 40 characters in your last name field to work with if you have an advanced degree or certification.
     * Examples: PMP, PHD, MBA
 * Headline is 120 characters is VERY prominent in search results and should make people want to click on your profile and read more.
@@ -63,17 +63,16 @@ Character Limits in LinkedIN: https://connect2collaborate.wordpress.com/2014/09/
 * While creating or initially updating for a job search recommend changing to NO. 
 * Once your profile is up to date change back to YES so when you make a tweak or receive recommendations your network is notified.
 #### Profile Viewing Options (Private Mode)
-* When you view other peoples profiles they are notified about it.
+* When you view other people's profiles they are notified about it.
 * What they are notified with is typically your name and headline.
-* Make sure you profile is complete before searching linkedIn,. I you select one of the Privacy options you will not receive information about who is viewing YORU profile (unless you are premium).
-
+* Make sure you profile is complete before searching LinkedIn. If you select one of the Privacy options you will not receive information about who is viewing YOUR profile (unless you are premium).
 ### Profile Photo
 * Your profile is 7 times more likely to be opened if you have a profile photo.
 * Make sure it looks like a professional headshot. NO SELFIES!
     * Plain background
     * Good Lighting
     * Wear what is appropriate
-    * Look directly at the camera. Head and Soulders.
+    * Look directly at the camera. Head and Shoulders.
     * Smile!
     * Max size 4 meg
     * Pixel size is 200 x 200 or 4000 x 4000
@@ -106,7 +105,7 @@ Character Limits in LinkedIN: https://connect2collaborate.wordpress.com/2014/09/
 * Turn to ON and let recruiters know you are open to new opportunities and relocation.
 
 ### Your Activity
-* Anything you post or "Like" on linkedIn will appear here.
+* Anything you post or "Like" on LinkedIn will appear here.
 * Does this content support your branding?
 
 ### Edit public profile & URL 
@@ -126,7 +125,7 @@ Character Limits in LinkedIN: https://connect2collaborate.wordpress.com/2014/09/
 ## Skills & Endorsements
 * Ensure that you do some research to find keywords in your target market using:
     * 10+ job postings that match your skillset
-    * Identify repeate keywords
+    * Identify repeat keywords
     
 **NOTE:**  Only your top 3 skills (you can reorder) are initially visible to a reader unless they click _View More_ 
 
