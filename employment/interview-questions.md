@@ -217,7 +217,7 @@
 
 * Disributor/Partner vs Direct business ratio, future goals, etc.
 * Internal/external support alignment
-* 3 Top Comppetitors - Value Prop/Differentiation
+* 3 Top Competitors - Value Prop/Differentiation
 * Recent Big Win - describe it
 * 3 Key regisonal/national customers
 
