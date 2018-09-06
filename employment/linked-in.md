@@ -149,7 +149,7 @@ Want to follow the activity of group members without adding them to your network
 
 Because LinkedIn limits you to membership in 50 groups at a time, join a variety of groups to create a combination of wide reach and niche visibility. Some examples of groups to join are: specialty or certification groups, job seeker groups, local groups, company career groups, and alumni or professional groups.
 
-### Watch the conversaion before jumping in!
+### Watch the conversation before jumping in!
 Most online networking sites and forums have their own policies, procedures, and rules of engagement. When you first join a site, take some time to watch the interaction before offering opinions, uploading content, and engaging others. Once you understand the flow of dialogue, you'll be better able to contribute to the community in a positive way.
 
 ## Find people in a company
@@ -166,4 +166,4 @@ Once you have run a search on a person or company there will be an option _"All 
 * You can see where people have typically gone from your company pervious company.
 * Search by Location
 * Search by Industry
-* Search by Shools
+* Search by Schools
