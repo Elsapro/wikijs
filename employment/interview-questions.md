@@ -6,7 +6,7 @@
 ## Behavior/Accomplishments
 
 * Describe the project that best exemplifies your analytic skills
-* In what ways did you disagree with your last company
+* In what ways, did you disagree with your last company
 * What is your current greatest weakness?
 * We are looking at several candidates. What makes you unique?
 * Tell me about the planning process that you have found most useful
@@ -14,7 +14,7 @@
 * Why did you select the school/college/university you attended?
 * Why have you been successful in this profession?
 * What is the most important lesson you have learned in your life?
-* What causes pressure or strees for you?
+* What causes pressure or stress for you?
 * How does your prior experience support this position?
 * Describe situations where your work, your ideas or style/personality was criticized.
 * Can you give me an example of a time when you sought the advice of others?
@@ -27,7 +27,7 @@
 * Tell me about a time you didn’t succeed at a task and the impact it had on you.
 * What personal characteristics are necessary for success?
 * Tell me about your character
-* What qualities do you look for in a friend
+* What qualities do you look for in a friend?
 * Tell me about your closest friends- their personalities, interest, occupations.
 * How would your family and friends describe you?
 * How would your last boss describe you?
@@ -76,7 +76,7 @@
 * What interferes with your management effectiveness?
 * How would your boss describe your standards of performance?
 * Describe your standards of performance.
-* How would your subordinates decibe your experience in delegation?
+* How would your subordinates describe your experience in delegation?
 * Explain your role as team leader, team member, and team player.
 * What aspects of your last job did you consider most crucial?
 * What extracurricular activities were you involved in during college?
@@ -118,7 +118,7 @@
 
 * Can you take instructions without feeling defensive, hurt or upset?
 * How do you show initiative?
-* Tell me about yours energy level-describe a typical day.
+* Tell me about your energy level-describe a typical day.
 * How do you respond to pressure in the workplace?
 * How do you feel you could contribute to the company?
 * Do you prefer working alone or with others?
@@ -154,14 +154,14 @@
 
 ## Other
 
-* What is a weakness and a limitations
-* What Regrets to you have from your past job.
-* What don't you like about my style of interview
-* What type of leadership style do you have
-* Is there such a think as Job Security
-* What did you like most and least about your last job
+* What is a weakness and a limitation?
+* What regrets do you have from your past job?
+* What don't you like about my style of interview?
+* What type of leadership style do you have?
+* Is there such a think as Job Security?
+* What did you like most and least about your last job?
 * Describe a disagreement you had with your last boss.
-* If you were a tree what kind of tree would you be
+* If you were a tree what kind of tree would you be?
 * This job requires a lot of flexibility. What are you inflexible about?
 
 # QUESTIONS YOU SHOULD ASK
@@ -179,7 +179,7 @@
 * How would you describe the culture? Future?
 * How did this opening occur?
 
-    - Past perfomrance for the position.
+    - Past performance for the position.
     
 * Turnover rate?
 * Have you offered this position to any internal candidates and what is their status?
@@ -189,22 +189,22 @@
 * What is the organizations mission?
 * What is the performance management methodology at the company? How is performance evaluated?
 
-    - Career progression exmaple
+    - Career progression example
     - Career tracks?
     
 * How are department budgets allocated?
-* Collboratin between divisions - contracts, meetings, etc.
+* Collaboration between divisions - contracts, meetings, etc.
 * What can I expect the next step in the process to be?
 * What do you see as the biggest challenge for this position?
 * What are your 60/90/120 day goals for this position?
 * What are the specific responsibilities/goals of this positon?
 * What specific skills/experience are you looking for?
 * What would you expect the first assignment to be?
-* How would you describe a typical day in this position.
+* How would you describe a typical day in this position?
 * How does this positon interact with other departments?
 * How long have you been with the organization?
 * What other roles have you had with the organization?
-* What is your vision for this deparement/division.
+* What is your vision for this department/division.
 * Describe your style as a manager/leader.
 * How can I be most successful in this role?
 * Share recent example of overcoming obstacle/issue/setback
@@ -215,10 +215,10 @@
 
 ## Partnerships/Competition
 
-* Disributor/Partner vs Direct business ratio, future goals, etc.
+* Distributor/Partner vs Direct business ratio, future goals, etc.
 * Internal/external support alignment
 * 3 Top Competitors - Value Prop/Differentiation
 * Recent Big Win - describe it
-* 3 Key regisonal/national customers
+* 3 Key regional/national customers
 
 
