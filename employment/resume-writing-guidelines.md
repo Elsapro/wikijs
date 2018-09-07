@@ -87,10 +87,10 @@ Hiring managers also reported only about 5% of resumes contained this key sectio
 2. **Hard Skills** - Experience you have in related positions and / or industries and other special technical skills.
 
 	**EXAMPLE:**  Sales strategist with the vision to determine optimal product / services solutions, acquire and develop new business, and successfully penetrate new markets.
-
+	
 3. **Soft Skills** - Personal strengths (motivated abilities).
 
-	**EXAMPLE:**  Sales strategist with the vision to determine optimal product / services solutions, acquire and develop new business, and successfully penetrate new markets. **Did you mean to duplicate this from the hard skills?**
+	**EXAMPLE:**   Leverage outstanding relationship management skills to deliver uncompromising customer service and manage high-profile accounts. Experienced with both enterprise class and small business customers using consultative and transactional approaches.
 
 
 # Accomplishment Statements
