@@ -61,7 +61,7 @@ This is often cited as one of the most frequent mistakes in writing today. If yo
 
 
 ## Acronyms
-If you must use them follow the example below so non-industry readers can grasp what you are referring to.
+If you must use them don't assume non-industry readers will understand what you are referring to.
 **Example:** Surpassed Service-Level Agreement (SLA) goals for 2 years running.
 
 	
