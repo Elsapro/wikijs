@@ -57,7 +57,7 @@ Punctuation is important and commas are a common area of concern.
 	
 	
 ## Hypenation
-This is often cited as one of the most frequent mistakes in writing today. If you are using a 2-word adjective, it's always hyphenated and needs to be consistently presentd throughtout the document. An example would be the term entry-level.
+This is often cited as one of the most frequent mistakes in writing today. If you are using a 2-word adjective, it's always hyphenated and needs to be consistently presented throughout the document. An example would be the term entry-level.
 	
 ### References
 
@@ -84,14 +84,14 @@ Hiring managers also reported only about 5% of resumes contained this key sectio
 
 3. **Soft Skills** - Personal strengths (motivated abilities).
 
-	**EXAMPLE:**  Sales strategist with the vision to determine optimal product / services solutions, acquire and develop new business, and successfully penetrate new markets.
+	**EXAMPLE:**  Sales strategist with the vision to determine optimal product / services solutions, acquire and develop new business, and successfully penetrate new markets. **Did you mean to duplicate this from the hard skills?**
 
 
 # Accomplishment Statements
 > Accomplishment: - An action taken which results in a measurable and beneficial outcome.
 
 ## Memory Joggers
-Look here for accomplisments:
+Look here for accomplishments:
 1. Saved performance reviews
 1. Old resumes
 1. Things of which you’re very proud (awards / accolades)
