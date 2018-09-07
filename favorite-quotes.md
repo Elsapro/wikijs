@@ -18,6 +18,7 @@
 * “Irrationally held truths may be more harmful than reasoned errors.” -Thomas H. Huxley
 * “God himself, sir, does not propose to judge man until the end of his days.” “Why should you and I?” -Dr. Johnson
 * “There are three kinds of lies,” “lies, damned lies and statistics.” -Benjamin Disraeli
+* "Simplicity is the ulitmate sophistication." -Leonardo da Vinci
 * “THERE IS ONLY ONE WAY UNDER HIGH HEAVEN TO GET ANYBODY TO do anything. Did you ever think of that? Yes, just one way. And that is by making the other person want to do it.” -Dale Carnegie
 * “The deepest urge in human nature is “the desire to be important”.” -Dr. John Dewey
 * “To achieve great things, two things are needed: a plan, and not quite enough time.” -Leonard Bernstein
