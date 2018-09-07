@@ -6,6 +6,9 @@
 * [InterviewQuestions](Interview-Questions)
 * [Resume Writing Guidelines](Resume-Writing-Guidelines)
 
-## Links
+## Career Planning and Training
 * GoodWill Learning Site: http://Gcflearnfree.org
-* O-NET Online a collection of quantitative data for Occupations: http://onetonline.org 
+* What Do You Want To Do For A Living:  https://www.mynextmove.org/
+* What Do You Want To Do For A Living For Veterans: https://www.mynextmove.org/vets/
+* Build A Bridge To Your New Career: https://www.myskillsmyfuture.org/
+* BuildYour Future With O*Net OnLine: https://www.onetonline.org/
