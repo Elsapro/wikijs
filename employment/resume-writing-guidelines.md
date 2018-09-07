@@ -58,6 +58,12 @@ Punctuation is important and commas are a common area of concern.
 	
 ## Hypenation
 This is often cited as one of the most frequent mistakes in writing today. If you are using a 2-word adjective, it's always hyphenated and needs to be consistently presented throughout the document. An example would be the term entry-level.
+
+
+## Acronyms
+If you must use them follow the example below so non-industry readers can grasp what you are referring to.
+**Example:** Surpassed Service-Level Agreement (SLA) goals for 2 years running.
+
 	
 ### References
 
