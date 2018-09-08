@@ -11,6 +11,8 @@
 
 ## What Are You Going to Talk About?
 - You need a game plan, what's yours?
+  Know ahead of time what you want to accomplish.
+	
 - No one likes to be used, really what do you want?
 - Bartering is an age old tradition, what say you?
 - Every new beginning needs a closing, do you have one?
