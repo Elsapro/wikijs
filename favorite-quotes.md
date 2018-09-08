@@ -26,7 +26,7 @@
 ## The Art of War - Sun Tzu
 
 * Plan for what is difficult while it is easy, do what is great while it is small.
-* Seeing what other do no see is called brilliance, knowing what others do not know is called genius. Brilliant geniuses win first.
+* Seeing what other do not see is called brilliance, knowing what others do not know is called genius. Brilliant geniuses win first.
 * A military operation is like a fire, if it is not stopped, it will burn itself out.
 * Courage without humaneness is like knowing how to reap but not how to sow.
 * Be careful in the beginning, and you have no trouble in the end. -The I Ching
