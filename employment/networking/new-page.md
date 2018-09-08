@@ -10,3 +10,7 @@
 - Join a group on Linkedin.
 
 ## What Are You Going to Talk About?
+- You need a game plan, what's yours?
+- No one likes to be used, really what do you want?
+- Bartering is an age old tradition, what say you?
+- Every new beginning needs a closing, do you have one?
