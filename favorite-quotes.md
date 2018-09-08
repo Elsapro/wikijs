@@ -8,7 +8,7 @@
 * The Information Super Highway is still a dirt road in some places”
 * **Brooks's Law**: Adding manpower to a late software project makes it later.
 * Computer Science is the first engineering discipline in which the complexity of the objects created is limited solely by the skill of the creator, and not by the strength of raw materials. B. Reid
-* The wedsite shoudl never be ahead of the airplane
+* The website should never be ahead of the airplane
 
 ## Practical
 * “Years ago I first saw a poster of Murphy's law: If anything can go wrong, it will. That's ridiculous. So I wrote a set of alternatives. I called them Peter's laws: If anything can go wrong, fix it. “No” means begin again one level higher. Do it by the book, but be the author.” - Peter Diamandis
