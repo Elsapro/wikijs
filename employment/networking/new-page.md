@@ -1,4 +1,4 @@
-<!-- TITLE: networking -->
-<!-- SUBTITLE: A quick summary of New Page -->
+<!-- TITLE: Networking -->
+<!-- SUBTITLE: Its Important to Your Success -->
 
-# Header
+# Networking Your Way to The Hidden Job Market
