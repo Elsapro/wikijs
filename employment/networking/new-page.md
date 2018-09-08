@@ -3,4 +3,4 @@
 
 # Networking - The Hidden Job Market
 
-## Either Get in The Game or Stay on The Porch
+## Where to Begin
