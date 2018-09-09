@@ -3,13 +3,13 @@
 
 # Networking - The Hidden Job Market
 
-## Where to Begin
+## Beginning
 - Google networking in your local area.
 - Research whether any groups in your field exist.
 - Connect with your local Chamber of Commerce for advice.
 - Join a group on Linkedin.
 
-## What Are You Going to Talk About?
+## Make a Plan
 - You need a game plan, what's yours?
   1.  Know ahead of time what you want to accomplish.
        a. Make an aquaintance, barter services, exchange business cards.
