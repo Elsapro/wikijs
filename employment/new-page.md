@@ -1,1 +1,1 @@
-# Industry Specifc
+# Industry Specfic
