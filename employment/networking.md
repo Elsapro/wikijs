@@ -19,7 +19,8 @@
        a. Order through Staples, Office Max, Vistaprint.com, etc.
 	
 - No one likes to be used, really what do you want?
-				a.  Why are  you here? To  make new friend? To learn more about a certain company/person?
+  1.  Why are  you here? 
+				a.To  make new friend? To learn more about a certain company/person?
 - Bartering is an age old tradition, what say you?
 				a. You're not working so how can you offer the usage of your skills in a volunteer capacity?
 - Every new beginning needs a closing, do you have one?
