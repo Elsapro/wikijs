@@ -1,4 +1,4 @@
 <!-- TITLE: Stages Of Grief -->
 <!-- SUBTITLE: A quick summary of Stages Of Grief -->
 
-# Header
+# How Many Stages Are There?
