@@ -9,6 +9,7 @@
 		4. Depression
 		5. Acceptance 
 		People who are grieving do not necessarily go through the stages in the same order or experience all of them.
+		
 
 -   We would all like to think we are above this process but alas it is not so.
      Often it is hard to identify that we are going through the process on our own.
