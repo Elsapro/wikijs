@@ -12,6 +12,7 @@
 		
 
 -   We would all like to think we are above this process but alas it is not so.
-     Often it is hard to identify that we are going through the process on our own.
+     Often it is hard to identify that we are going through this process on our own.
+		 Pay attention to the people around you and how they react to you.
      Listen to what the people around you are saying to you to see if there is any
      merit in their words.
