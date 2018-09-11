@@ -4,7 +4,7 @@
 # Networking - The Hidden Job Market
 
 ## Beginning
-- Google networking in your local area.
+- Google 'Networking' in your local area.
 - Research whether any groups in your field exist.
 - Connect with your local Chamber of Commerce for advice.
 - Join a group on Linkedin.
