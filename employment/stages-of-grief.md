@@ -1,4 +1,4 @@
 <!-- TITLE: Stages Of Grief -->
 <!-- SUBTITLE: A quick summary of Stages Of Grief -->
 
-# How Many Stages Are There?
+# The 5 Stages of Grief & Loss
