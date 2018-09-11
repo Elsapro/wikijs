@@ -23,6 +23,8 @@
 				a. To  make new friend? 
 				b. To learn more about a certain company/person?
 - Bartering is an age old tradition, what say you?
-				a. You're not working so how can you offer the usage of your skills in a volunteer capacity?
+				a. How can you offer the usage of your skills in a volunteer capacity?
+				b. http://hourexchangeportland.org/
+				c.  http://volunteermaine.org/ 
 - Every new beginning needs a closing, do you have one?
 				a.  Awkward conversations need a graceful ending, what's yours?
