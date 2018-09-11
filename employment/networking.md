@@ -26,5 +26,6 @@
 				a. How can you offer the usage of your skills in a volunteer capacity?
 				b. http://hourexchangeportland.org/
 				c.  http://volunteermaine.org/ 
+				d.  Both b and c work for you if you need a positive buffer after the last job.
 - Every new beginning needs a closing, do you have one?
 				a.  Awkward conversations need a graceful ending, what's yours?
