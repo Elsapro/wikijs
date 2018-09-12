@@ -38,3 +38,16 @@ It’s often hard for people to see their own skills. “The thing you are fanta
 ##  4. Flash back to your childhood.
 
 Still stumped? Step into a time machine, and think back to your eight-year-old self. What were you great at during that age? According to Bloor, that special skill can often apply to your present and future selves and help you see how you’re different from everyone else. For example, when Bloor was eight, she had a great sense of direction and easily memorized routes while hiking with her father. That skill translated into her previous career of building software for companies — she could visualize 3D maps of software architecture.
+
+##  5. Show a little vulnerability.
+
+Finding people that we connect with can be elusive, especially at work-related events. “I think a lot of the angst in the workplace and angst with each other is because we don’t talk about who we really are as people,” says Bloor. So, take a chance, open up in your opening remarks, and reveal something honest about yourself. Use phrases, such as “I’m really passionate about X” or “What excites me most about what I do is Y,” which can communicate your emotion and enthusiasm and prime others to respond in kind.
+
+##  6. Gather some feedback on your introduction.
+
+After you’ve crafted your opener, practice it on five people you know well. Then, a few days later, ask them ‘What do you remember most about my intro?” Their few-days-later response will tell you what is most memorable about your opener, what you could alter, and what you might try to lean into when meeting new people.
+
+##  7. Blame it on someone else.
+
+When you first start trying out a new way of introducing yourself, you’ll probably feel nervous. Bloor suggests prefacing it with, “I’ve just learned a new way of introducing myself and I’m experimenting with it. Can I try it out on you?” People love to be asked for their advice or input.
+
