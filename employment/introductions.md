@@ -51,3 +51,15 @@ After you’ve crafted your opener, practice it on five people you know well. Th
 
 When you first start trying out a new way of introducing yourself, you’ll probably feel nervous. Bloor suggests prefacing it with, “I’ve just learned a new way of introducing myself and I’m experimenting with it. Can I try it out on you?” People love to be asked for their advice or input.
 
+##  8. Resist going back to the same-old intro.
+
+The truth is, it will always be easier to say the stilted “I’m job X at company Y,” stumble through small talk, and then move on to the next person and glass of wine. In addition, when you give a nontraditional introduction, you will inevitably run into some staid folks who don’t get it.
+
+But Bloor urges people to persist. She recently coached a woman named Rumi, whose standard intro was “I’m a copywriter.” After the two women worked together, Rumi realized what her secret strength is: her ability to be the other person in her writing. What’s more, the process of crafting a new opener made Rumi realize that “the part of me that I am ashamed of — being the perpetual outsider — is the very place from which my bulletproof power springs forth.”
+
+Like Rumi, you may find that coming up with an authentic, personal introduction leads to deeper revelations in your life. “We all want to learn and figure out why we matter on this planet and in this life,” says Bloor. “And it can start with being able to answer the question ‘What do you do?’ better.”
+
+ABOUT THE AUTHOR
+
+Kara Cutruzzula is a journalist and playwright and writes Brass Ring Daily, a daily motivational newsletter about work, life and creativity.
+
