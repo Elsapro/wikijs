@@ -12,11 +12,11 @@
 ## Make a Plan
 - You need a game plan, what's yours?
   1.  Know ahead of time what you want to accomplish.
-       a. Make an aquaintance, barter services, exchange business cards.
+       Make an aquaintance, barter services, exchange business cards.
   2.  If possible research some of the attending people.
-       a. Check with the hosting company regarding a guest list.
+       Check with the hosting company regarding a guest list.
   3.  Bring/get business cards to exchange.
-       a. Order through Staples, Office Max, Vistaprint.com, etc.
+       Order through Staples, Office Max, Vistaprint.com, etc.
 	
 - No one likes to be used, really what do you want?
   1.  Why are  you here? 
