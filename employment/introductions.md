@@ -25,3 +25,9 @@ The first thing you need to do is figure out who you actually are. Bloor asks he
 
 Bloor used this tactic on me. My typical response to “What do you do?” is “I’m a journalist and playwright.” But after she asked me what I loved about these professions and what I hoped to accomplish through them, she helped me craft a much deeper and more compelling response: “The world can be an overwhelming place, so I help people connect to each other by telling stories as a journalist as a playwright.”
 
+##  2. Think about the problems that only you can solve.
+
+Bloor believes that everyone, no matter their job or industry, is essentially a problem solver. So when she interviews people to help them discover their unique story, she’s also trying to find out the problems they’re particularly good at solving.
+
+Use this tactic on yourself. What problems do you solve at work? And what makes you especially effective at doing so? Framing yourself as a problem-solver may trigger an instant reaction when you meet someone new. “I have that problem, too!” they could say. Figure out how to deliver your capabilities in a single sentence. For example, instead of saying “I’m a lawyer who specializes in X type of law,” you could say, “I think the biggest problem about the justice system is A. As an attorney who focuses on B, I’m helping find solutions through doing C.”
+
