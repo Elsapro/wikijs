@@ -9,7 +9,7 @@
 		4. Depression
 		5. Acceptance 
 
-***People who grieve do not need to go through the stages in the same order or experience all of them.**
+***People who grieve do not always go through the stages in the same order or experience all of them.**
 		
 
 -   We would all like to think we are above this process but alas it is not so.
