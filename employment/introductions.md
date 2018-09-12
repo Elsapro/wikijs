@@ -18,3 +18,10 @@ Introducing yourself this way isn’t just about standing out in a crowded room 
 
 Be warned: crafting your intro takes a bit of time and effort. But as the world of work continues to change in ways we can’t anticipate, knowing what sets you apart from the pack is crucial. Here, Bloor tell us how you can come up with your new response to “What do you do?”
 
+
+##  1. Go beyond your title.
+
+The first thing you need to do is figure out who you actually are. Bloor asks her clients, “What is it you would like to be known for?” It’s an uncomfortable question, but she finds it jolts people out of their comfort zones. Rather than relying on previous accomplishments, you’re forced to consider what you’d like your impact to be.
+
+Bloor used this tactic on me. My typical response to “What do you do?” is “I’m a journalist and playwright.” But after she asked me what I loved about these professions and what I hoped to accomplish through them, she helped me craft a much deeper and more compelling response: “The world can be an overwhelming place, so I help people connect to each other by telling stories as a journalist as a playwright.”
+
