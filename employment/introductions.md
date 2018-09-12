@@ -14,3 +14,7 @@ And it all starts with how you introduce yourself.
 
 Bloor’s own answer demonstrates the power of an original response. If she answers “I’m CEO of Amplify Labs,” her questioner will probably go on to ask about what it’s like to be a CEO or what is Amplify Labs. But those lines of conversation don’t really allow a person to really know Bloor. So, when she’s asked “What do you do?”, she replies: “Do you like your own answer to the question ‘What do you do?’?” People invariably admit they don’t. She then says, “I know — everyone struggles with it, yet the answer can have massive impact. I work with people on crafting an answer that is bold, compelling, authentic and unique. I help you tell people why you’re awesome.”
 
+Introducing yourself this way isn’t just about standing out in a crowded room or cutting through extraneous jargon and chitchat. By naming your special sauce upfront, says Bloor, you’re increasing the chances that the other person will bring up an opportunity, relationship, business or idea that could help you. As Bloor puts it, “When you get your introduction right, the opportunity is not only to genuinely connect with people, but you’ll also be allowed to do the work you really want to do.”
+
+Be warned: crafting your intro takes a bit of time and effort. But as the world of work continues to change in ways we can’t anticipate, knowing what sets you apart from the pack is crucial. Here, Bloor tell us how you can come up with your new response to “What do you do?”
+
