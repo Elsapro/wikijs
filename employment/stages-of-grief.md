@@ -19,6 +19,7 @@
      merit in their words.
 		 
 		 
--  Take the time to record yourself  so you know what you asund like when  you talk?
+-  Record yourself on your phone.  Do you sound down?  Are your words harsh and angry sounding?
+-  
 		 
 		
