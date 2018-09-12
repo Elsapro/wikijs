@@ -17,3 +17,8 @@
 		 Pay attention to the people around you and how they react to you.
      Listen to what the people around you are saying to you to see if there is any
      merit in their words.
+		 
+		 
+-  Takek the time to record yourself.  What so you aound like when  you talk?
+		 
+		
