@@ -23,7 +23,7 @@
 				a. To  make new friend? 
 				b. To learn more about a certain company/person?
 - Bartering is an age old tradition, what say you?
-				a. How can you offer the usage of your skills in a volunteer capacity?
+* 				How can you offer the usage of your skills in a volunteer capacity?
 				b. http://hourexchangeportland.org/
 				c.  http://volunteermaine.org/ 
 				d.  Both b and c can work well for you if you need a positive buffer after the last job.
