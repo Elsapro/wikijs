@@ -22,10 +22,12 @@
   1.  Why are  you here? 
 				a. To  make new friend? 
 				b. To learn more about a certain company/person?
+				
 - Bartering is an age old tradition, what say you?
-* 				How can you offer the usage of your skills in a volunteer capacity?
-				b. http://hourexchangeportland.org/
-				c.  http://volunteermaine.org/ 
-				d.  Both b and c can work well for you if you need a positive buffer after the last job.
+   1.  How can you offer the usage of your skills in a volunteer capacity?
+					a. http://hourexchangeportland.org/
+					b.  http://volunteermaine.org/ 
+					c.  Both b and c can work well for you if you need a positive buffer after the last job.
+					
 - Every new beginning needs a closing, do you have one?
 				a.  Awkward conversations need a graceful ending, what's yours?
