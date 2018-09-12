@@ -19,6 +19,6 @@
      merit in their words.
 		 
 		 
--  Takek the time to record yourself.  What so you aound like when  you talk?
+-  Take the time to record yourself  so you know what you asund like when  you talk?
 		 
 		
