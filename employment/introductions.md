@@ -31,3 +31,7 @@ Bloor believes that everyone, no matter their job or industry, is essentially a 
 
 Use this tactic on yourself. What problems do you solve at work? And what makes you especially effective at doing so? Framing yourself as a problem-solver may trigger an instant reaction when you meet someone new. “I have that problem, too!” they could say. Figure out how to deliver your capabilities in a single sentence. For example, instead of saying “I’m a lawyer who specializes in X type of law,” you could say, “I think the biggest problem about the justice system is A. As an attorney who focuses on B, I’m helping find solutions through doing C.”
 
+##  3. Ask your friends and colleagues for input.
+
+It’s often hard for people to see their own skills. “The thing you are fantastic at can be as natural to you as breathing, so you don’t value it,” says Bloor. If you’re having a difficult time identifying your talents, she suggests you turn to the people who know you well and ask them “What is it you see that I do well and that I’m unaware is really special?” You’ll generally find common themes or language in their responses, says Bloor, even if they’re people from different parts of your life.
+
