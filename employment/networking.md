@@ -44,4 +44,6 @@ Introducing yourself this way isn’t just about standing out in a crowded room 
 
 Be warned: crafting your intro takes a bit of time and effort. But as the world of work continues to change in ways we can’t anticipate, knowing what sets you apart from the pack is crucial. Here, Bloor tell us how you can come up with your new response to “What do you do?”
 
+* Go beyond your title.
+
 
