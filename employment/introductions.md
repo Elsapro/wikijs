@@ -35,3 +35,6 @@ Use this tactic on yourself. What problems do you solve at work? And what makes 
 
 It’s often hard for people to see their own skills. “The thing you are fantastic at can be as natural to you as breathing, so you don’t value it,” says Bloor. If you’re having a difficult time identifying your talents, she suggests you turn to the people who know you well and ask them “What is it you see that I do well and that I’m unaware is really special?” You’ll generally find common themes or language in their responses, says Bloor, even if they’re people from different parts of your life.
 
+##  4. Flash back to your childhood.
+
+Still stumped? Step into a time machine, and think back to your eight-year-old self. What were you great at during that age? According to Bloor, that special skill can often apply to your present and future selves and help you see how you’re different from everyone else. For example, when Bloor was eight, she had a great sense of direction and easily memorized routes while hiking with her father. That skill translated into her previous career of building software for companies — she could visualize 3D maps of software architecture.
