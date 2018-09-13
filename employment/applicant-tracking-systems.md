@@ -24,3 +24,5 @@ Administrative Assistant AND data entry AND payroll …
 Candidates who can predict the correct resume keywords will have the greatest chance of being included in recruiter search results. The best way figure out which skills and keywords to include is by analyzing the job description.
 
 Jobscan automates this process by analyzing your resume against the job description to show the top skills and keywords missing from your resume.
+
+![Ats Saple](/uploads/ats-saple.png "Ats Saple")
