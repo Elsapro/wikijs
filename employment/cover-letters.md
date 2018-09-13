@@ -13,6 +13,6 @@ After following **A Company** on LinkedIn, I am very interested in working with 
 ## Point-by-point comparisons
 Add a two column table without any borders and match their posting requirements with your qualifications:
 
-![Tletter](/uploads/graphics/tletter.png "Tletter"){.align-center}
+
 
 
