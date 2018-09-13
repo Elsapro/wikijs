@@ -59,3 +59,5 @@ In theory, you can trick ATS algorithms by stuffing your resume with keywords. S
 While outdated systems are still in use at some large companies, we are seeing new ATS being developed for the modern age. As employers fight for the best talent, candidate experience is becoming more of a priority. Automation and ranking systems aren’t going away; they’re just becoming more technical as recruiting software begins leveraging AI.
 
 An ATS-optimized resume is the first step to getting past the bots and face to face with an actual person. Jobscan tests and researches common ATS to help job seekers avoid the traps of these systems, from the outdated to the cutting edge.
+
+##  Sample Resumes 
