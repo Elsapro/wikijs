@@ -46,3 +46,5 @@ This includes:
 *  Increasing searchability by adding resume keywords based on the job description
 *  Focusing on the most impactful information in your work experience section
 *  Keeping your resume formatting simple so that an ATS can accurately parse it
+
+##  Don’t cheat or over-optimize for applicant tracking systems
