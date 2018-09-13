@@ -5,3 +5,4 @@
 -  An applicant tracking system (ATS) is a software application that enables the electronic handling of recruitment needs. ... In many cases they filter applications automatically based on given criteria such as keywords, skills, former employers, years of experience and schools attended.
 
 ## How do applicant tracking systems work?
+-   Applicant tracking systems process resumes submitted by applicants and sometimes even use social media to actively recruit prospective employees. When you submit your resume through an ATS, it stores your resume and an entry in the database. The recruiters then search for keywords for the particular job opening.
