@@ -39,9 +39,10 @@ Modern ATS are starting to get away from this practice, but some popular systems
 ##  How to “beat” applicant tracking systems
 -  There is no universal trick to beating applicant tracking systems. Surviving an ATS and getting invited for a job interview requires well-written resume that is mindful of ATS algorithms as well as the people pushing the buttons.
 
+
 -  This includes:
-* Carefully tailoring your resume for each and every job you apply to
-* Dirrectly addressing qualifications found in the job description
-* Increasing searchability by adding resume keywords based on the job description
-* Focusing on the most impactful information in your work experience section
-* Keeping your resume formatting simple so that an ATS can accurately parse it
+1. 		Carefully tailoring your resume for each and every job you apply to
+2. 		Dirrectly addressing qualifications found in the job description
+3. 		Increasing searchability by adding resume keywords based on the job description
+4. 		Focusing on the most impactful information in your work experience section
+5. 		Keeping your resume formatting simple so that an ATS can accurately parse it
