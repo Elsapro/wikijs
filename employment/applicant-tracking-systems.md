@@ -26,3 +26,5 @@ Candidates who can predict the correct resume keywords will have the greatest ch
 Jobscan automates this process by analyzing your resume against the job description to show the top skills and keywords missing from your resume.
 
 ![Ats Saple](/uploads/ats-saple.png "Ats Saple")
+
+## Resume formatting matters in applicant tracking systems
