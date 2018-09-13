@@ -5,7 +5,7 @@
 The best way to write a cover letter is in direct response to a job posting.  A “Point-By-Point Match” cover letter is crafted to respond specifically to the top requirements presented in the job posting and areas where you would be an excellent candidate.   The cover letter should become the first page of an attached document that is followed by your resume so the reader only needs to open one document.
 
 ## Opening
-Open the letter with your interest in the role and stree how you can bring value to them.
+Open the letter with your interest in the role and show how you can bring value to them.
 
 > Dear Recruiter:
 After following **A Company** on LinkedIn, I am very interested in working with your organization and believe I can provide value to your team.  The recent posting for Senior Product Manager is a great match with my experience as I have outlined for you below:   
