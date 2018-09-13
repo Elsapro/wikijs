@@ -16,3 +16,6 @@ Add a two column table without any borders and match their posting requirements 
 ![Tletter](/uploads/graphics/tletter.png "Tletter")
 
 
+## Closing
+Close by referencing resume and plan for follow-up.
+> Please refer to my resume for additional accomplishments, and I hope to speak with you as well.  As I know that you are busy, I will plan to follow up.  Thank you for your consideration.
