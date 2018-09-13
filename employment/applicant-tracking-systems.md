@@ -28,3 +28,10 @@ Jobscan automates this process by analyzing your resume against the job descript
 ![Ats Saple](/uploads/ats-saple.png "Ats Saple")
 
 ## Resume formatting matters in applicant tracking systems
+-  When you upload your resume into an applicant tracking system, the recruiter won’t necessarily view the file. Some ATS parse the document into a digital profile to make things uniform and searchable.
+
+This causes big problems for job seekers.
+
+Many ATS parsing algorithms are outdated and unintelligent, causing your resume information to get distorted or lost. This means vital keywords or details might not be imported. Imagine your most important qualification slipping through the cracks!
+
+Modern ATS are starting to get away from this practice, but some popular systems like iCIMS (used by Amazon, General Mills, Comcast) still do it. In order to create an ATS-friendly resume that is parsable by these outdated systems, be sure to keep section headings simple, use consistent formatting for your work history and dates, avoid tables, and use a .docx or .pdf file format.
