@@ -36,4 +36,4 @@ Many ATS parsing algorithms are outdated and unintelligent, causing your resume 
 
 Modern ATS are starting to get away from this practice, but some popular systems like iCIMS (used by Amazon, General Mills, Comcast) still do it. In order to create an ATS-friendly resume that is parsable by these outdated systems, be sure to keep section headings simple, use consistent formatting for your work history and dates, avoid tables, and use a .docx or .pdf file format.
 
--  How to “beat” applicant tracking systems
+##  How to “beat” applicant tracking systems
