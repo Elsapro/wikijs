@@ -10,3 +10,9 @@ Open the letter with your interest in the role and stree how you can bring value
 > Dear Recruiter:
 After following **A Company** on LinkedIn, I am very interested in working with your organization and believe I can provide value to your team.  The recent posting for Senior Product Manager is a great match with my experience as I have outlined for you below:   
 
+## Point-by-point comparisons
+Add a two column table without any borders and match their posting requirements with your qualifications:
+
+![Tletter](/uploads/graphics/tletter.png "Tletter"){.align-center}
+
+
