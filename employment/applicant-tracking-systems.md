@@ -35,3 +35,5 @@ This causes big problems for job seekers.
 Many ATS parsing algorithms are outdated and unintelligent, causing your resume information to get distorted or lost. This means vital keywords or details might not be imported. Imagine your most important qualification slipping through the cracks!
 
 Modern ATS are starting to get away from this practice, but some popular systems like iCIMS (used by Amazon, General Mills, Comcast) still do it. In order to create an ATS-friendly resume that is parsable by these outdated systems, be sure to keep section headings simple, use consistent formatting for your work history and dates, avoid tables, and use a .docx or .pdf file format.
+
+-  How to “beat” applicant tracking systems
