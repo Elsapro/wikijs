@@ -47,4 +47,8 @@ This includes:
 *  Focusing on the most impactful information in your work experience section
 *  Keeping your resume formatting simple so that an ATS can accurately parse it
 
-##  Don’t cheat or over-optimize for applicant tracking systems
+##  Don’t cheat or over-optimize for applicant tracking systems  
+
+-  Optimizing your keywords and formatting for applicant tracking systems is not the same as cheating the system.
+
+In theory, you can trick ATS algorithms by stuffing your resume with keywords. Some do this by secretly adding additional keywords to their resumes using “invisible” white text or by unnaturally overusing keywords.  These tricks might help you get a better initial score in the ATS, but they’re unlikely to fool recruiters. Instead of getting yourself blacklisted from the company, focus on crafting the best resume possible based on your actual skillset.
