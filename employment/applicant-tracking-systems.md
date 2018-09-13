@@ -11,3 +11,5 @@
 -  Top employers hire for several jobs at a time and receive hundreds of resumes for any given opening. Because applying for a job online is easier than ever, many of these applicants are unqualified and figured “it was worth a try.”
 
 Applicant tracking systems keep all these resumes in one place, helping recruiters and hiring managers stay organized as well as EEOC compliant. In theory, these systems also save time by automatically surfacing and highlighting top candidates. In reality, ATS do help hiring professionals narrow their applicant pool, but top candidates slip through the cracks.
+
+## Keyword Searches
