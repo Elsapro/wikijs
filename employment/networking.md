@@ -31,6 +31,7 @@
 					c.  Both b and c can work well for you if you need a positive buffer after the last job.
 					
 - So, you found an event to attend, now what?
+					a.  How are you going to introduce yourself?
 					
 - Every new beginning needs a closing, do you have one?
 				a.  Awkward conversations need a graceful ending, what's yours?
