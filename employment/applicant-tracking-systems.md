@@ -64,7 +64,9 @@ This includes:
 In theory, you can trick ATS algorithms by stuffing your resume with keywords. Some do this by secretly adding additional keywords to their resumes using “invisible” white text or by unnaturally overusing keywords.  These tricks might help you get a better initial score in the ATS, but they’re unlikely to fool recruiters. Instead of getting yourself blacklisted from the company, focus on crafting the best resume possible based on your actual skillset.
 
 ##  Applicant tracking systems are here to stay
--  During the Great Recession, employers were flooded with applications and wanted features that discouraged and filtered out unqualified candidates. This resulted in many of the bloated application processes and indiscriminate filters found in ATS today. Unfortunately, improving unemployment rates won’t mark the end of ATS.
+-  During the Great Recession, employers were flooded with applications and wanted features that discouraged and filtered 
+   out unqualified candidates. This resulted in many of the bloated application processes and indiscriminate filters found in 
+	 ATS today. Unfortunately, improving unemployment rates won’t mark the end of ATS.
 
 While outdated systems are still in use at some large companies, we are seeing new ATS being developed for the modern age. As employers fight for the best talent, candidate experience is becoming more of a priority. Automation and ranking systems aren’t going away; they’re just becoming more technical as recruiting software begins leveraging AI.
 
