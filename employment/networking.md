@@ -7,7 +7,7 @@
 -  ... a great way for 'like' minded people to meet.
 -  ... also a way to gain insight on where your skills fit.
 -  ... a great platform to just relax and get to know co-workers on a personal level.
--  
+-  Let's face it we get locked into our small world of work to pay the bills.
 
 ## A Few Simple Steps To Get Started **The Hidden Job Market**
 - Google 'Networking' in your local area.
