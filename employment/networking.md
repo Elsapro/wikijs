@@ -3,10 +3,10 @@
 
 # It Can Be Important to Your Success
 
-##  What It Is and Isn't
--  It is a great way for 'like' minded people to meet.
--  Depending on the type of event it can present an option for brainstorming.
--  For some it can provide a platform to just relax and get to know co-workers on a personal level.
+##  It Is 
+-  ... a great way for 'like' minded people to meet.
+-  ... also a way to gain insight on where your skills fit.
+-  ... a great platform to just relax and get to know co-workers on a personal level.
 -  
 
 ## A Few Simple Steps To Get Started **The Hidden Job Market**
