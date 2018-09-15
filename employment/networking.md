@@ -3,7 +3,7 @@
 
 # Networking - The Hidden Job Market
 
-## Beginning
+## A Few Simple Steps To Get Started
 - Google 'Networking' in your local area.
 - Research whether any groups in your field exist.
 - Connect with your local Chamber of Commerce for advice.
@@ -11,7 +11,7 @@
 
 ## Make a Plan
 - You need a game plan, what's yours?
-  1.  Know ahead of time what you want to accomplish.
+  1.  Know ahead of time what you want to accomplish before you attend a networking event.
        Make an aquaintance, barter services, exchange business cards.
   2.  If possible research some of the attending people.
        Check with the hosting company regarding a guest list.
@@ -19,9 +19,10 @@
        Order through Staples, Office Max, Vistaprint.com, etc.
 	
 - No one likes to be used, really what do you want?
-  1.  Why are  you here? 
+  1.  Why are  you here, because right now  you are probably a total stranger? 
 				a. To  make new friend? 
 				b. To learn more about a certain company/person?
+				c. Why should anyone reach out and help you?
 				
 - Bartering is an age old tradition, what say you?
    1.  How can you offer the usage of your skills in a volunteer capacity?
