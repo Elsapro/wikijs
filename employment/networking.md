@@ -17,6 +17,10 @@
 
 ## Networking Opportunities
 -  Propel - https://www.linkedin.com/company/propel-portland/ 
+-  Think Local Community Networking - Maine
+    https://www.linkedin.com/groups/1953225/
+-  Kegs & Issues - Portland Chamber of Commerce
+   http://web.portlandregion.com/events/Kegs-Issues-James-Morin-Flowfold-1146/details
 
 ## Make a Plan
 - You need a game plan, what's yours?
