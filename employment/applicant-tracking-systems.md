@@ -28,7 +28,8 @@ Jobscan automates this process by analyzing your resume against the job descript
 ![Ats Saple](/uploads/ats-saple.png "Ats Saple")
 
 ## Resume formatting matters in applicant tracking systems
--  When you upload your resume into an applicant tracking system, the recruiter won’t necessarily view the file. Some ATS parse the document into a digital profile to make things uniform and searchable.
+-  When you upload your resume into an applicant tracking system, the recruiter won’t necessarily view the file. Some ATS 
+    parse the document into a digital profile to make things uniform and searchable.
 
 This causes big problems for job seekers.
 
