@@ -3,6 +3,8 @@
 
 # Networking - It's Important to Your Success
 
+##  What It Is and Isn't
+
 ## A Few Simple Steps To Get Started **The Hidden Job Market**
 - Google 'Networking' in your local area.
 - Research whether any groups in your field exist.
