@@ -21,7 +21,8 @@
     https://www.linkedin.com/groups/1953225/
 -  Kegs & Issues - Portland Chamber of Commerce
    http://web.portlandregion.com/events/Kegs-Issues-James-Morin-Flowfold-1146/details
--  Tech Talk Portland - https://www.eventbrite.com/e/tech-talk-portland-tickets-48164233519?platform=hootsuite
+-  Tech Talk Portland 
+    https://www.eventbrite.com/e/tech-talk-portland-tickets-48164233519?platform=hootsuite
 
 ## Make a Plan
 - You need a game plan, what's yours?
