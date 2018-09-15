@@ -1,9 +1,9 @@
 <!-- TITLE: Networking -->
-<!-- SUBTITLE: Its Important to Your Success -->
+<!-- SUBTITLE: The process of meeting new people in a business or social context. -->
 
-# Networking - The Hidden Job Market
+# Networking - It's Important to Your Success
 
-## A Few Simple Steps To Get Started
+## A Few Simple Steps To Get Started **The Hidden Job Market**
 - Google 'Networking' in your local area.
 - Research whether any groups in your field exist.
 - Connect with your local Chamber of Commerce for advice.
@@ -30,7 +30,7 @@
 					b.  http://volunteermaine.org/ 
 					c.  Both b and c can work well for you if you need a positive buffer after the last job.
 					
-- So, you found an event to attend, now what?
+- You found an event to attend, now what?
 					a.  How are you going to introduce yourself?
 					
 - Every new beginning needs a closing, do you have one?
