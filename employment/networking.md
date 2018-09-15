@@ -15,6 +15,9 @@
 - Connect with your local Chamber of Commerce for advice.
 - Join a group on Linkedin.
 
+## Networking Opportunities
+-  Propel - https://www.linkedin.com/company/propel-portland/ 
+
 ## Make a Plan
 - You need a game plan, what's yours?
   1.  Know ahead of time what you want to accomplish before you attend a networking event.
