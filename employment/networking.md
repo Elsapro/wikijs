@@ -26,9 +26,11 @@
 				
 - Bartering is an age old tradition, what say you?
    1.  How can you offer the usage of your skills in a volunteer capacity?
-					a. http://hourexchangeportland.org/
+					a.  http://hourexchangeportland.org/
 					b.  http://volunteermaine.org/ 
 					c.  Both b and c can work well for you if you need a positive buffer after the last job.
+					
+- So, you found an event to attend, now what?
 					
 - Every new beginning needs a closing, do you have one?
 				a.  Awkward conversations need a graceful ending, what's yours?
