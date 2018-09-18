@@ -73,13 +73,13 @@ If you must use them don't assume non-industry readers will understand what you 
 
 
 
-# Developing a Summary Profile
+## Developing a Summary Profile
 Your personal branding statement is often called your "Summary of Qualifications or Profile" section. Adding a branding statement triples your impact, and employers reported that this was one of the very first areas they read. And if the briefly stated summary demonstrates solid ability to fill the advertised job, it catches their attention and they slow down and give the applicant more careful consideration.
 
 Hiring managers also reported only about 5% of resumes contained this key section. Think of it as mini-outline of you: a highly influential summation of the specifics you bring to the job. This section usually consists of four to six sentences that present an overview of your brand identity (i.e. impact, where you add value, your point of differentiation), talents, work habits (i.e. hard and soft skills).
 
 
-## Elements for an Effective Summary
+### Elements for an Effective Summary
 1. **Your Personal Brand** - Includes the title or position description that describes who you are and your impact, your Unique Selling Point, and / or the benefits you’re offering.
 
 	**EXAMPLE:** High-impact Software Application Architect who leverages IT & Automated Solutions to improve processes and drive cost savings.
@@ -93,10 +93,10 @@ Hiring managers also reported only about 5% of resumes contained this key sectio
 	**EXAMPLE:**   Leverage outstanding relationship management skills to deliver uncompromising customer service and manage high-profile accounts. Experienced with both enterprise class and small business customers using consultative and transactional approaches.
 
 
-# Accomplishment Statements
+## Accomplishment Statements
 > Accomplishment: - An action taken which results in a measurable and beneficial outcome.
 
-## Memory Joggers
+### Memory Joggers
 Look here for accomplishments:
 1. Saved performance reviews
 1. Old resumes
@@ -104,7 +104,7 @@ Look here for accomplishments:
 1. Past Calendars that document your work efforts
 1. Past colleagues input on things you contributed (i.e. where they said you added value)
 
-## Accomplishment Development Questions
+### Accomplishment Development Questions
 
 1. Did you identify or solve a major problem for your department or division? (Results?)
 1. Did you save the company money? (How much?)
@@ -125,13 +125,13 @@ Look here for accomplishments:
 1. Did you improve employee performance or productivity? (How?)
 1. Did you reduce errors? (By how much?)
 
-## Condensing Language
-### Original
+### Condensing Language
+#### Original
 * ~~Successfully~~ developed and implemented a new improvement plan for all supply chain teams ~~in the organization. Responsible~~ for providing team member training and standardizing the procedures for ~~all of~~ the deployments. ~~This~~ plan reduced deployment and service times by approximately 25%.
 ### Better:
 * Decreased deployment and service times 25% by developing and implementing supply chain improvement plan, training teams and standardizing deployment procedures.
 
-# Ageless Resume
+## Ageless Resume
 If you are concerned that you are being screened out because of your age or high level of experience, a good solution is creating an ageless resume. Prospective employers are hiring solutions to problems. You have to demonstrate why you are the solution to the problem.
 
 ### Recommendations
@@ -141,7 +141,7 @@ If you are concerned that you are being screened out because of your age or high
 	- **Remove graduation dates unless they are recent**. Graduation dates allow hiring managers to roughly calculate your age, so remove any date that will allow them to pinpoint your age. We are living in an age of constant change, and the information you learned while working on your degree 15 years ago is now outdated. However, if you recently completed a degree, go ahead and include it on your resume.
 1. **Include professional development details**. If you have updated your skills regularly and/or have completed certification in your industry or functional area, include them to demonstrate that you are a lifelong learner. You can add a section on your resume such as Recent Professional Accomplishments.
 1. **Include recent business results**. If you have achieved noteworthy business results, include them on your resume.
-# Proofreading Tips
+## Proofreading Tips
 When sending out any document related to your job search, it is critical it be error free.
 
 * Read the copy out loud.
