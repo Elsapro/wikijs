@@ -4,11 +4,11 @@
 # The 5 Stages of Grief & Loss
 The 5 stages of grief and loss are: 
 
-1. 		Denial and isolation
-1. 		Anger
-1. 		Bargaining
-1. 		Depression
-1. 		Acceptance 
+	1. 		Denial and isolation
+	1. 		Anger
+	1. 		Bargaining
+	1. 		Depression
+	1. 		Acceptance 
 
 
 - **People who grieve do not always go through the stages in the same order or experience all of them.**
