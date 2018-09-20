@@ -1,8 +1,8 @@
 <!-- TITLE: Stages Of Grief -->
 <!-- SUBTITLE: A quick summary on the Stages Of Grief -->
 
-# The Five Stages by Elisabeth Kübler-Ross and David Kessler
-The 5 stages of grief and loss are: 
+# The Five Stages
+The 5 stages of grief are: 
 
 1. Denial 
 1. Anger
