@@ -1,5 +1,5 @@
 <!-- TITLE: The Five Stages Of Grief -->
-<!-- SUBTITLE: A quick summary on the Stages Of Grief -->
+<!-- SUBTITLE: A quick summary on Grief and the Job Loss -->
 
 # Who's on First
 No, The 5 stages of grief are: 
