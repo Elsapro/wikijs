@@ -1,8 +1,8 @@
-<!-- TITLE: Stages Of Grief -->
+<!-- TITLE: The Five Stages Of Grief -->
 <!-- SUBTITLE: A quick summary on the Stages Of Grief -->
 
-# The Five Stages
-The 5 stages of grief are: 
+# Who's on First
+No, The 5 stages of grief are: 
 
 1. Denial 
 1. Anger
