@@ -1,7 +1,7 @@
 <!-- TITLE: Networking -->
 <!-- SUBTITLE: The process of meeting new people in a business or social context. -->
 
-# It Can Be Important to Your Success
+# Can Be Important to Your Success
 
 ##  It Is 
 -  ... a great way for 'like' minded people to meet.
