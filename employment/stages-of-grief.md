@@ -29,16 +29,9 @@ When reality finally starts to set in and we have no choice but to accept the fa
 -  National Suicide Prevention Lifeline **1-800-273-8255** 
 
 ##  ACCEPTANCE
-Acceptance is often confused with the notion of being “all right” or “OK” with what has happened. This is not the case. Most people don’t ever feel OK or all right about the loss of a loved one. This stage is about accepting the reality that our loved one is physically gone and recognizing that this new reality is the permanent reality. We will never like this reality or make it OK, but eventually we accept it. We learn to live with it. It is the new norm with which we must learn to live. We must try to live now in a world where our loved one is missing. In resisting this new norm, at first many people want to maintain life as it was before a loved one died. In time, through bits and pieces of acceptance, however, we see that we cannot maintain the past intact. It has been forever changed and we must readjust. We must learn to reorganize roles, re-assign them to others or take them on ourselves. Finding acceptance may be just having more good days than bad ones. As we begin to live again and enjoy our life, we often feel that in doing so, we are betraying our loved one. We can never replace what has been lost, but we can make new connections, new meaningful relationships, new inter-dependencies. Instead of denying our feelings, we listen to our needs; we move, we change, we grow, we evolve. We may start to reach out to others and become involved in their lives. We invest in our friendships and in our relationship with ourselves. We begin to live again, but we cannot do so until we have given grief its time.
+Acceptance is like Forgiving, it's not done to absolve the othe person for the wrong they did.  Acceptance is a way of acknowledging your pain and all you went through and then allowing yourself to finally move on with your life. Saying goodbye to what once was and looking at the possibilities you couldn't see before. By getting out there and networking you can make new connections, build a strong group of like minded people by joining groups on LinkedIn. You might want to invest in your friendships and in your relationships with family members. As you begin to feel alive again, be thankful that you made it through your grief and can now rise from the ashes like the phoneix.
 
--
-		
--   We would all like to think we are above this process but alas it is not so.
-     Often it is hard to identify that we are going through this process on our own.
-		 Pay attention to the people around you and how they react to you.
-     Listen to what the people around you are saying to you to see if there is any
-     merit in their words.
--  Record yourself on your phone.  Do you sound down?  Are your words harsh and angry sounding?
+
 
 > “When one door closes, another opens; but we often look so long and so regretfully upon the closed door that we do not see the one that has opened for us.” -Alexander Graham Bell
 
