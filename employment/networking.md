@@ -1,15 +1,18 @@
 <!-- TITLE: Networking -->
 <!-- SUBTITLE: The process of meeting new people in a business or social context. -->
 
-# Is Important to Your Success
+# Important to Your Success
 
 ##  It Is 
--  ... a great way for 'like' minded people to meet.
--  ... also a way to gain insight on where your skills fit.
+-  ... a great way to find 'your people,' 'your tribe.'.
+-  ... also a way to gain insight on where your skills fit in today's market.
 -  ... a great platform to just relax and get to know co-workers on a personal level.
 -  Let's face it we get locked into our small world of work to pay the bills.
 
-## A Few Simple Steps To Get Started **The Hidden Job Market**
+## The Hidden Job Market
+
+
+## A Few Simple Steps To Get Started 
 - Google 'Networking' in your local area.
 - Research whether any groups in your field exist.
 - Connect with your local Chamber of Commerce for advice.
