@@ -7,9 +7,14 @@
 -  ... a great way to find 'your people,' 'your tribe.'.
 -  ... also a way to gain insight on where your skills fit in today's market.
 -  ... a great platform to just relax and get to know co-workers on a personal level.
--  Let's face it we get locked into our small world of work to pay the bills.
+-  Networking, done well, is the closest thing there is to short cut to a new job.
 
+## It Is Not
+- Networking is not a "quick fix" (nothing is, if you haven't already noticed).
+- 
 ## The Hidden Job Market
+- The hidden job market is a term used to describe jobs that aren't posted online or advertised in any other way.
+- You reach this gold mine of jobs by networking your way into it.
 
 
 ## A Few Simple Steps To Get Started 
