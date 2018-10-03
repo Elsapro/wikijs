@@ -12,6 +12,9 @@
 # OS
 ## Linux
 * [Commands](os/commands)
+
+## Windows
+*[Commands](os/windowscommands)
 # Specifications
 ## markdown
 * CommonMark: https://commonmark.org
