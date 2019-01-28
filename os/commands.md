@@ -7,3 +7,8 @@
 ```text
 scp -rv /path/to/file username@a:/path/to/destination
 ```
+
+## Unzip Multiple Zips to Different Dicrectories
+```text
+find -name '*.zip' -exec sh -c 'unzip -d "${1%.*}" "$1"' _ {} \;
+```
