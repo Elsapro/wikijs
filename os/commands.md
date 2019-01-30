@@ -12,3 +12,7 @@ scp -rv /path/to/file username@a:/path/to/destination
 ```text
 find -name '*.zip' -exec sh -c 'unzip -d "${1%.*}" "$1"' _ {} \;
 ```
+## Find out what disk a particular directory is mounted on
+```text
+df -P file/goes/here | tail -1 | cut -d' ' -f 1
+```
