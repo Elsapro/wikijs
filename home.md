@@ -11,6 +11,7 @@
 
 # OS
 * [Make iso files into Bootbale USB images](https://howchoo.com/g/yzblytnhmgz/make-a-bootable-usb-drive-on-mac)
+* [Bootable ESX from Mac](https://www.techrepublic.com/article/how-to-create-a-bootable-vmware-esxi-usb-drive-on-macs/)
 ## Linux
 * [Commands](os/commands)
 
